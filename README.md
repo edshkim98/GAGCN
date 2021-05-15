@@ -4,7 +4,7 @@ GAGCN: Generative Adversarial Graph Convolutional Network for 3D Point Cloud Sem
 Key Contributions:<br />
 1. Proposed GCN with adversarial learning scheme in 3D point cloud segmentation
 2. Utilized Embedding loss for adversarial learning
-3. Proposed an effective way for convolution in graph or point cloud representation<br />
+3. Proposed an effective way for 3D point cloud convolution<br />
 
 # Results<br />
 **Instance Average IoU** <br />
