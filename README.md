@@ -8,4 +8,4 @@ Key Contributions:<br />
 
 PointNet++ | DGCNN | PointCNN | KPConv | Proposed witout Adv | Proposed with Adv
 ------------ | ------------- | ------------ | ------------- | ------------- | -------------
-85.1 | 85.2 | 86.1 | 86.4 | 86.2 | **0.0** 
+85.1 | 85.2 | 86.1 | 86.4 | 86.2 | **86.5** 
