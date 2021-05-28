@@ -11,13 +11,13 @@ Key Contributions:<br />
 
 PointNet++ | DGCNN | PointCNN | KPConv | Proposed witout Adv | Proposed with Adv
 ------------ | ------------- | ------------ | ------------- | ------------- | -------------
-85.1 | 85.2 | 86.1 | 86.4 | 86.2 | **86.5** 
+85.1 | 85.2 | 86.1 | 86.4 | 86.2 | **86.8** 
 
 **Class Average IoU** <br />
 
 PointNet++ | DGCNN | PointCNN | KPConv | Proposed witout Adv | Proposed with Adv
 ------------ | ------------- | ------------ | ------------- | ------------- | -------------
-80.4 | 82.3 | 84.6 | 85.1 | 84.1 | **85.13** 
+80.4 | 82.3 | 84.6 | 85.1 | 84.1 | **85.9** 
 
 # Package Installation<br />
 This code has been tested on: <br />
